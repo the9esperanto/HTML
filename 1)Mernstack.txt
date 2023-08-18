@@ -9,3 +9,13 @@ Web development is a process of creating many websites and web application.
 Websites are static in nature. They are read-only.
 Web applications are dynamic in nature. User interation is available.
 
+
+Web Application: -
+
+1) FrontEnd/ UI: - HTML, CSS,JS,REACT (FRONTEND ENGINEER)
+
+2) BACKEND: - (BACKEND ENGINEER) Nodejs
+
+3) DATA BASE LAYER: - MongoDB
+
+MERN STACK: - MONGODB EXPRESSJS REACTJS NODJS
